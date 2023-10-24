@@ -1,0 +1,44 @@
+
+body {
+    background-color: #333;
+    color: #fff;
+}
+
+header {
+    background-color: #222;
+    color: #fff;
+}
+
+
+a {
+    color: #fff;
+   
+}
+
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th, td {
+    border: 1px solid #777;
+    padding: 8px;
+ 
+}
+
+th {
+    background-color: #222;
+    color: #fff;
+}
+
+
+form {
+    background-color: #222;
+    padding: 20px;
+}
+
+
+
+
+
